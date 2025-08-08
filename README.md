@@ -90,9 +90,11 @@ java -cp bin BrickBreaker # Execute
 - **Resource Management**: Proper disposal of Timer objects  
 
 ## 📸 Screenshot  
-![Level 1 Gameplay](<img width="996" height="787" alt="image" src="https://github.com/user-attachments/assets/10c1d9f0-e3da-427c-81fc-75dd822b0be4" />
-)  
+
 *Game interface showing colored bricks, score display, and active power-up*
+<img width="996" height="787" alt="Screenshot 2025-08-09 014807" src="https://github.com/user-attachments/assets/e64a8995-bf43-4690-8e88-9d808df574d6" />
+
+
 
 ---
 
@@ -109,6 +111,8 @@ BrickBreaker/
 ├── Paddle.java           # Paddle movement and collision
 └── README.md             # Project documentation (this file)
 ```
+<img width="1918" height="1079" alt="Screenshot 2025-08-09 015122" src="https://github.com/user-attachments/assets/6f80c77e-3446-4cc3-ae6e-f105310d32ea" />
+
 
 ---
 
